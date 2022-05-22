@@ -1,6 +1,6 @@
 ### Project (2021.12.08 ~ 2021.12.13)
 - - -
-# 다음 분기는 어떠한 게임을 제작 해야 할까?
+# 분석을 통한 다음 분기 제작 게임 도출
 
 ### 데이터
 - 데이터 출처 : https://www.kaggle.com/datasets/gregorut/videogamesales
