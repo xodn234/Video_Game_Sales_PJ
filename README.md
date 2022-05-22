@@ -32,3 +32,7 @@
 -  Platform에서는 트랜드가 끝나가는 종류들이 급격하게 감소하고 있었고 최근 가장 떠오르고 있는 PS4로 제안을 하는것에 결론
 - Shooter & PS4 ->  Call of Duty: Black Ops 3 -> 상위매출, 다양한 플랫폼, 최근출시 -> 좋은 참조모델 발견 
 - 다음 분기에는 Call of Duty: Black Ops 3을 참조한 Shooter & PS4으로 제작을 제안
+
+### 주요 스킬
+- pandas
+- plotly
