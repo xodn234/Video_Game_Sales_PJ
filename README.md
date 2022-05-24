@@ -22,10 +22,10 @@
 - ![image](https://user-images.githubusercontent.com/78893090/169689593-03ed800d-23b0-482e-86e2-f9e8f8b6ddb3.png)
 - 이상치를 출고량이 높은게임으로 판단 (상위 이창치 계산 법 : Q3 + 1.5 *(Q3 - Q1) 이상) -> 1896종류의 데이터가 선택
 - 출고량이 높은 게임들의 연도별 Size
--![image](https://user-images.githubusercontent.com/78893090/169694414-b9551109-df32-4eef-a147-222a8c720eee.png)
+- ![image](https://user-images.githubusercontent.com/78893090/169694414-b9551109-df32-4eef-a147-222a8c720eee.png)
 
 - 출고량이 높은 게임들의 연도별 증감 추세
--![image](https://user-images.githubusercontent.com/78893090/169694421-f0f3273e-8258-4003-8d34-9392c3fb6409.png)
+- ![image](https://user-images.githubusercontent.com/78893090/169694421-f0f3273e-8258-4003-8d34-9392c3fb6409.png)
 
 ### 결론
 -  Genre에서는 Action이 가장 높았지만 2013년도부터 급격하게 감소하는 현상이 보였으며 대부분 2014년도부터 감소하는 경향이 있지만 Shooter이 감소폭이 작았으며 2015년도에는 최고 빈도수가 되어 Shooter를 제안하는것에 결론을 내림
