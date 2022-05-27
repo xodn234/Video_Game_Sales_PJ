@@ -36,3 +36,4 @@
 ### 주요 스킬
 - pandas
 - plotly
+
